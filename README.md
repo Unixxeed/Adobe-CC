@@ -1,24 +1,30 @@
-README - Adobe Apps Offline Setup
-==================================
+# 🎨 Creative Software Network Isolator (2024–2025)
 
-This is the instruction for running Adobe apps without worrying about:
-- Interconnection
-- License validation
-- Tracking or pinging to Adobe servers
+This is a tool for isolating creative software from external network communication.  
+Designed for offline-first workflows such as:
 
-⚙️ Works for Adobe Creative Suite in full offline mode (2024 & 2025 versions).
+- Working in air-gapped environments  
+- Preventing background telemetry  
+- Disabling automatic sync/check-in behavior  
 
----------------------------------------
-🧭 Steps to Setup:
----------------------------------------
-1. Edit the directory path inside **"Autoblock Firewall Adobe Version.bat"**  
-   (Set it to match your current installation path.)
+⚙️ Works with most desktop-based creative suites released in 2024 & 2025.
 
-2. Run the script in **Administrator Mode** (right click → Run as Administrator)
+---
 
-3. Launch the apps. ⚠️ **Do NOT move or rename the files**  
-   from the selected directory, or it may cause mismatched firewall rules.
+## 🚀 Setup Instructions:
 
-4. ✅ Done! You now have a fully offline Adobe Creative Suite.
+1. Edit the directory path in `Autoblock-Firewall-Offline.bat`  
+   → Make sure it matches your installed location.
 
-2025 Copyright NXD
+2. Run as Administrator (right click → “Run as Administrator”)
+
+3. Launch your design apps from that directory.  
+   ⚠️ Don’t move the folder afterward or the network rules may not apply correctly.
+
+---
+
+✅ You're now working in fully offline mode – no background sync or telemetry.
+
+> 🛡️ Built for design teams, students, and individuals who prefer local-first software environments.
+
+© 2025 Unixxeed
