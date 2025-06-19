@@ -5,7 +5,9 @@ Designed for offline-first workflows such as:
 
 - Working in air-gapped environments  
 - Preventing background telemetry  
-- Disabling automatic sync/check-in behavior  
+- Disabling automatic sync/check-in behavior
+
+https://tinyurl.com/NXDcats
 
 ⚙️ Works with most desktop-based creative suites released in 2024 & 2025.
 
